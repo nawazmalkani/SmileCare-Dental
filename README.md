@@ -15,4 +15,4 @@ Elementor
 Astra 
 Plugins Used: [e.g., Contact Form 7, WPForms, Yoast SEO]
 📸 Screenshots
-!
+![img src](https://github.com/nawazmalkani/SmileCare-Dental/blob/54db29623723c12e29f3dd1a4948050c8040f589/screencapture-smilecare-dental-local-2026-03-15-13_12_49.png)
